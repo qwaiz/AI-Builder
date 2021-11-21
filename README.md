@@ -10,5 +10,7 @@ AI Builder安装在本地计算机，本地计算机训练，本地计算机生�
 链接：https://pan.baidu.com/s/1YdrpShvt_r53u-alxldFlw 
 提取码：8888 
 
+QQ 技术支持群：883677972
+
 ![作者微信](kefu.jpg)  
 
